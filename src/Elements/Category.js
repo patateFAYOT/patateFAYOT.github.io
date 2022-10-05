@@ -8,7 +8,9 @@ function Category({categoryName, categoryProjects}) {
   return (
     <section className="Category">
       <h2>{categoryName}</h2>
-      {dataProjects}
+      <div class="row row-cols-1 row-cols-md-4 g-4">
+        {dataProjects}
+        </div>
     </section>
   );
 }

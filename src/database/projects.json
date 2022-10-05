@@ -6,15 +6,15 @@
         "name": "Projet 1",
         "date": "2022",
         "description": "truc qui est fait",
-        "link": null,
-        "skills": "Unity"
+        "link": "https://www.google.com/",
+        "skills": [ "Unity" ]
       },
       {
         "name": "Projet 2",
         "date": "2022",
         "description": "MIAOU LA",
         "link": null,
-        "skills": "Python"
+        "skills": [ "Python" ]
       }
     ]
   },
@@ -26,21 +26,21 @@
         "date": "2022",
         "description": "OOOOOOOOOOOH",
         "link": null,
-        "skills": "css"
+        "skills": [ "css" ]
       },
       {
         "name": "Projet 4",
         "date": "2022",
         "description": "YOOOOUUUUHOOOOOUUU",
         "link": null,
-        "skills": "Kate"
+        "skills": [ "Kate", "Bush" ]
       },
       {
         "name": "Projet 5",
         "date": "2022",
         "description": "ooooooooOOOOOOOOOOoooooooooo",
         "link": null,
-        "skills": "oh boi"
+        "skills": [ "oh boi" ]
       }
     ]
   }

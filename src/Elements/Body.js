@@ -9,6 +9,7 @@ function Body() {
 
   return (
     <body className="Body">
+      <h1>Portfolio</h1>
       {projects}
     </body>
   );
