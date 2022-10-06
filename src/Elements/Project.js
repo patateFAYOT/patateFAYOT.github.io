@@ -12,7 +12,7 @@ function Project({name, date, description, link, skills}) {
 
   return (
     <div class="col">
-    <div className="Project" class="card border-primary bg-primary bg-opacity-10 h-100 text-start text-wrap" style={{maxWidth: "50rem"}}>
+    <div className="Project" class="card border-primary bg-primary bg-opacity-10 h-100 text-start text-wrap">
       <div class="card-header">
         <h5 class="card-title">{name}</h5>
         <h6 class="card-subtitle text-muted">{date}</h6>

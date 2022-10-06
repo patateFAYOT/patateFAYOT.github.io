@@ -1,0 +1,10 @@
+.category {
+  border: solid 1px #0794f8;
+  border-radius: 25px;
+  background-color: #7ec9ff1a;
+}
+
+.title-section {
+  color: #0083e1;
+  border-bottom: solid 2px #0083e1;
+}

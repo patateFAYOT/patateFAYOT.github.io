@@ -6,8 +6,8 @@ function Category({categoryName, categoryProjects}) {
   const dataProjects = categoryProjects.map(data => <Project name={data.name} date={data.date} description={data.description} link={data.link} skills={data.skills}/>);
 
   return (
-    <section className="Category">
-      <h2>{categoryName}</h2>
+    <section className="Category" class="category p-4 m-4">
+      <h2 class="title-section text-start">{categoryName}</h2>
       <div class="row row-cols-1 row-cols-md-4 g-4">
         {dataProjects}
         </div>
