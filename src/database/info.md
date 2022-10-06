@@ -7,6 +7,7 @@
 [
   {
     "category": "Name of the category",
+    "icon": "Name of the Bootstrap icon",
     "data": [
       {
         "name": "Name of the project",
@@ -36,6 +37,8 @@ Tittle style:
  - text color -> #074196
 
 ### Header
+Background style:
+ - color -> #1259c1
 
 ### Section
 Title style:

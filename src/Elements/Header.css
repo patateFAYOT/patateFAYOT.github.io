@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #1259c1;
+}
+
+.navbar-brand {
+  font-size: xx-large;
+}
+
+.nav-link {
+  font-size: x-large;
+  color: white;
+  margin-right: 5%;
+}

@@ -1,6 +1,7 @@
 [
   {
     "category": "Jeux vidéos",
+    "icon": "controller",
     "data": [
       {
         "name": "Projet 1",
@@ -19,7 +20,8 @@
     ]
   },
   {
-    "category": "Web",
+    "category": "Application Web",
+    "icon": "browser-chrome",
     "data": [
       {
         "name": "Projet 3",
@@ -41,6 +43,71 @@
         "description": "ooooooooOOOOOOOOOOoooooooooo",
         "link": null,
         "skills": [ "oh boi" ]
+      }
+    ]
+  },
+  {
+    "category": "Base de données",
+    "icon": "server",
+    "data": [
+      {
+        "name": "Name of the project",
+        "date": "Date of the project",
+        "description": "Description of the project",
+        "link": null,
+        "skills": [ "List of skills and language used in the project" ]
+      }
+    ]
+  },
+  {
+    "category": "Application mobile",
+    "icon": "android2",
+    "data": [
+      {
+        "name": "Name of the project",
+        "date": "Date of the project",
+        "description": "Description of the project",
+        "link": null,
+        "skills": [ "List of skills and language used in the project" ]
+      }
+    ]
+  },
+  {
+    "category": "Simulation",
+    "icon": "calculator",
+    "data": [
+      {
+        "name": "Name of the project",
+        "date": "Date of the project",
+        "description": "Description of the project",
+        "link": null,
+        "skills": [ "List of skills and language used in the project" ]
+      }
+    ]
+  },
+  {
+    "category": "Recherche opérationnelle et optimisation",
+    "icon": "graph-up-arrow",
+    "data": [
+      {
+        "name": "Name of the project",
+        "date": "Date of the project",
+        "description": "Description of the project",
+        "link": null,
+        "skills": [ "List of skills and language used in the project" ]
+      }
+    ]
+  },
+  {
+    "category": "Développement",
+    "icon": "code-slash",
+    "data": [
+      {
+        "name": "Name of the project",
+        "date": "Date of the project",
+        "description": "Description of the project",
+        "link": null,
+        "skills": [ "List of skills and language used in the project" ]
       }
     ]
   }

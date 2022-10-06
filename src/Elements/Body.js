@@ -5,7 +5,7 @@ import './Body.css';
 import Category from './Category.js';
 
 function Body() {
-  const projects = listProjects.map(data => <Category categoryName={data.category} categoryProjects={data.data}/>);
+  const projects = listProjects.map(data => <Category categoryName={data.category} categoryIcon={data.icon} categoryProjects={data.data}/>);
 
   return (
     <body className="Body">
