@@ -8,7 +8,7 @@ function Category({categoryName, categoryIcon, categoryProjects}) {
   return (
     <section className="Category" class="category p-4 m-4">
       <h2 class="title-section">
-        <i class={"me-1 bi bi-"+categoryIcon}></i>
+        <i class={"me-1 bi bi-"+categoryIcon}/>
         {categoryName}
       </h2>
       <div class="row row-cols-1 row-cols-md-4 g-4">

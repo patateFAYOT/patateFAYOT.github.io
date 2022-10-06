@@ -25,13 +25,29 @@
 
 ### Contact JSON
 ```json
+{
+  "firstName": "First name",
+  "lastName": "Last Name",
+  "mail": [
+    "Mail",
+    ...
+  ],
+  "media": [
+    {
+      "name": "Name of the social media",
+      "icon": "Icon of the social media (Bootstrap or Font Awesome)",
+      "link": "Link to the social media page"
+    },
+    ...
+  ]
+}
 ```
 
 ## Style and colors
 
 ### General
 Text style:
- - font ->
+ - font -> Verdana
 
 Tittle style:
  - text color -> #074196
@@ -67,3 +83,11 @@ Badge style:
  - background color -> opacity 100%
 
 ### Footer
+Background style:
+ - color -> #0c62df
+
+Text style:
+ - color -> white
+
+Item style:
+ - color -> Bootstrap primary list group item

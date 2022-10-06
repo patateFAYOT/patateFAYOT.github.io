@@ -1,0 +1,25 @@
+{
+  "firstName": "Claire",
+  "lastName": "Saba",
+  "mail": [
+    "claire.saba@etu.isima.fr",
+    "claire.saba1@uqac.ca"
+  ],
+  "media": [
+    {
+      "name": "LinkedIn",
+      "icon": "bi bi-linkedin",
+      "link": "https://www.linkedin.com/in/claire-saba-0361791bb/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "bi bi-github",
+      "link": "https://github.com/patateFAYOT"
+    },
+    {
+      "name": "itch.io",
+      "icon": "fa-brands fa-itch-io",
+      "link": "https://claire-saba.itch.io/"
+    }
+  ]
+}

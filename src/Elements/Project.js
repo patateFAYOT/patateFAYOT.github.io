@@ -5,7 +5,7 @@ function Project({name, date, description, link, skills}) {
   if (link != null) {
     var linkButton = <a href={link} class="btn btn-primary" role="button" data-bs-toggle="button">Lien vers le code</a>;
   } else {
-    var linkButton = <a class="btn btn-primary disabled" aria-disabled="true" role="button" data-bs-toggle="button">Aucun dépôt public disponible</a>;
+    var linkButton = <a class="btn btn-primary disabled" aria-disabled="true" role="button" data-bs-toggle="button">Pas de dépôt public disponible</a>;
   }
 
   const listSkills = skills.map(data => <span class="badge text-bg-secondary bg-opacity-100 me-1">{data}</span>);
