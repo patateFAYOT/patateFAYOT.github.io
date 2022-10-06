@@ -9,7 +9,7 @@ function Body() {
 
   return (
     <body className="Body">
-      <h1>Portfolio</h1>
+      <h1 class="title text-center m-4">Portfolio</h1>
       {projects}
     </body>
   );

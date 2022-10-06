@@ -40,6 +40,10 @@ Tittle style:
 Background style:
  - color -> #1259c1
 
+Link style:
+ - color -> white
+ - color on hover -> #b9e5ff
+
 ### Section
 Title style:
  - text color -> #0083e1
