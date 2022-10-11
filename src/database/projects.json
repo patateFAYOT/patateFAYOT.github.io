@@ -1,21 +1,49 @@
 [
   {
-    "category": "Jeux vidéos",
+    "category": "Jeux vidéo",
     "icon": "controller",
     "data": [
       {
-        "name": "Projet 1",
+        "name": "Neon Rider",
         "date": "2022",
-        "description": "truc qui est fait",
-        "link": "https://www.google.com/",
-        "skills": [ "Unity" ]
+        "description": "Conduite d’un projet en équipe de cinq sur la création d’un jeu vidéo et d’une démo jouable du jeu avec le moteur Unity.",
+        "link": "https://claire-saba.itch.io/neon-rider",
+        "skills": [ "Unity3D", "C#", "SCRUM" ]
       },
       {
-        "name": "Projet 2",
+        "name": "Wigglys Escape (anciennement 100-Humans)",
         "date": "2022",
-        "description": "MIAOU LA",
+        "description": "Conduite d’un projet en équipe de quatre sur la création d’une démo d'un jeu vidéo narratif avec le moteur Unity.",
+        "link": "https://github.com/Sheepsy/100-humans",
+        "skills": [ "Unity3D", "C#" ]
+      },
+      {
+        "name": "Nature's Call",
+        "date": "2022",
+        "description": "Conduite d’un projet en équipe de quatre sur la création d’une démo d'un jeu vidéo en Réalité Virtuelle avec le moteur Unity.",
+        "link": "https://github.com/M5-Altair/Nature-s-Call",
+        "skills": [ "Unity3D", "C#", "Casque VR" ]
+      },
+      {
+        "name": "Intelligence Artificielle pour le jeu vidéo",
+        "date": "2022",
+        "description": "Conduite d’un projet en équipe de quatre sur l'amélioration et l'ajout de fonctionnalité d'un programme d'Intelligence Artificielle.",
+        "link": "https://github.com/patateFAYOT/IA",
+        "skills": [ "C++" ]
+      },
+      {
+        "name": "Moteur de jeu",
+        "date": "2021",
+        "description": "Travaux pratiques sur l'ajout et l'amélioration de fonctionnalités sur un moteur 2D de jeu vidéo.",
         "link": null,
-        "skills": [ "Python" ]
+        "skills": [ "C++" ]
+      },
+      {
+        "name": "Maths et Physique pour le jeu vidéo",
+        "date": "2021",
+        "description": "Conduite d’un projet en équipe de quatre sur la création d’un moteur physique 3D de jeu vidéo.",
+        "link": "https://github.com/maxlabbe/MathPhysiqueJeuxVideo",
+        "skills": [ "C++" ]
       }
     ]
   },
@@ -24,25 +52,39 @@
     "icon": "browser-chrome",
     "data": [
       {
-        "name": "Projet 3",
+        "name": "Site Web",
         "date": "2022",
-        "description": "OOOOOOOOOOOH",
-        "link": null,
-        "skills": [ "css" ]
+        "description": "Création d'un site Web personnel contenant mon portfolio.",
+        "link": "https://github.com/patateFAYOT/patateFAYOT.github.io",
+        "skills": [ "HTML", "JavaScript", "CSS", "JSON", "ReactJS", "Bootstrap", "Node.js" ]
       },
       {
-        "name": "Projet 4",
-        "date": "2022",
-        "description": "YOOOOUUUUHOOOOOUUU",
-        "link": null,
-        "skills": [ "Kate", "Bush" ]
+        "name": "Stage sur Orlando Suite for Tech Pubs",
+        "date": "2021",
+        "description": "Mise en place et configuration au sein du produit Orlando Tech Pubs, d’un outil d’édition XML pour une nouvelle norme (Airbus Flight Operations).",
+        "link": "https://orlandotechpubs.com/",
+        "skills": [ "JavaScript", "XML", "ReactJS", "FontoXML", "Node.js", "JAVA", "SCRUM" ]
       },
       {
-        "name": "Projet 5",
-        "date": "2022",
-        "description": "ooooooooOOOOOOOOOOoooooooooo",
+        "name": "Projet de deuxième année d'ISIMA",
+        "date": "2020-2021",
+        "description": "Conduite d’un projet en trinôme sur une application de gestion du temps de travail (codée en PHP en utilisant Symfony, PhpStorm et Git). Base de données de l’application créée et manipulée en collaboration avec un autre binôme (utilisation de SQL et de WampServer).",
         "link": null,
-        "skills": [ "oh boi" ]
+        "skills": [ "PHP", "Symphony", "SQL", "WampServer" ]
+      },
+      {
+        "name": "Projet de développement Web",
+        "date": "2020-2021",
+        "description": "Travaux pratiques sur la création de petits sites Web en local.",
+        "link": null,
+        "skills": [ "HTML", "JavaScript", "CSS", "JSON", "ReactJS", "Bootstrap", "Node.js" ]
+      },
+      {
+        "name": "Projet de Service Web",
+        "date": "2020-2021",
+        "description": "Conduite d’un projet en équipe de quatre sur la création d’un site Web fonctionnant sur le même modèle que 'TripAdvisor'.",
+        "link": null,
+        "skills": [ "C#", ".NET", "SQL" ]
       }
     ]
   },
@@ -51,11 +93,11 @@
     "icon": "server",
     "data": [
       {
-        "name": "Name of the project",
-        "date": "Date of the project",
-        "description": "Description of the project",
+        "name": "Projet de deuxième année de Prép'ISIMA",
+        "date": "2019",
+        "description": "Conduite d’un projet en binôme sur la manipulation de différents types de bases de données avec Python.",
         "link": null,
-        "skills": [ "List of skills and language used in the project" ]
+        "skills": [ "Python", "JSON", "SQL", "MAMP", "MongoDB" ]
       }
     ]
   },
@@ -64,11 +106,11 @@
     "icon": "android2",
     "data": [
       {
-        "name": "Name of the project",
-        "date": "Date of the project",
-        "description": "Description of the project",
-        "link": null,
-        "skills": [ "List of skills and language used in the project" ]
+        "name": "Chill Focus",
+        "date": "2021",
+        "description": "Conduite d’un projet en équipe de quatre sur la création d’une application mobile Android pour travailler.",
+        "link": "https://gitlab.com/perolynnseon/chill-focus",
+        "skills": [ "Kotlin", "JAVA", "SQL", "Android" ]
       }
     ]
   },
@@ -77,11 +119,18 @@
     "icon": "calculator",
     "data": [
       {
-        "name": "Name of the project",
-        "date": "Date of the project",
-        "description": "Description of the project",
+        "name": "Simulation multi-agent",
+        "date": "2020-2021",
+        "description": "Conduite d’un projet en trinôme sur la création d’une simulation multi-agent d'auto-tamponneuses.",
         "link": null,
-        "skills": [ "List of skills and language used in the project" ]
+        "skills": [ "C++" ]
+      },
+      {
+        "name": "Projet de simulation",
+        "date": "2020",
+        "description": "Conduite d’un projet en binôme sur la création d’une simulation de l'évolution d'une population de lapins.",
+        "link": null,
+        "skills": [ "C++" ]
       }
     ]
   },
@@ -90,11 +139,11 @@
     "icon": "graph-up-arrow",
     "data": [
       {
-        "name": "Name of the project",
-        "date": "Date of the project",
-        "description": "Description of the project",
-        "link": null,
-        "skills": [ "List of skills and language used in the project" ]
+        "name": "Projet d'Algorithmique",
+        "date": "2022",
+        "description": "Projet sur la résolution du problème de Théorie des Graphes du Sable Maximum avec une méthode exacte et une méthode approchée.",
+        "link": "https://github.com/patateFAYOT/Projet-d-Algorithmique",
+        "skills": [ "Python" ]
       }
     ]
   },
@@ -103,11 +152,11 @@
     "icon": "code-slash",
     "data": [
       {
-        "name": "Name of the project",
-        "date": "Date of the project",
-        "description": "Description of the project",
-        "link": null,
-        "skills": [ "List of skills and language used in the project" ]
+        "name": "The Legend Of Link",
+        "date": "2018",
+        "description": "Conduite d’un projet en binôme sur la création d’un jeu vidéo type 'The Legend Of Zelda' pour découvrir le fonctionnement de vi et Git.",
+        "link": "https://github.com/patateFAYOT/Thelegendoflink",
+        "skills": [ "C", "vi" ]
       }
     ]
   }
